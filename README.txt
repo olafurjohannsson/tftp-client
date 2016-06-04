@@ -4,9 +4,12 @@ TFTP Client
 
 **************************************************
 
+author: olafur@johannsson.co<br>
+web: http://olafurjohannsson.com
+
 Description:
 
-Scripts and GUI that implements að client that Reads/Write's using the Tftp (Trivial File Transfer Protocol) desctribed in RFC 1350.
+Scripts and GUI that implements aÃ° client that Reads/Write's using the Tftp (Trivial File Transfer Protocol) desctribed in RFC 1350.
 
 tftp_cmd.py is a command line script requires at least three arguments host, command and filename. It also has two optional arguments, port and alt_name.
 
