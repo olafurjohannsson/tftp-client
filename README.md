@@ -6,7 +6,7 @@ TFTP Client
 
 author: Ólafur Aron Jóhannsson<br>
 email: olafur@johannsson.co<br>
-website: http://olafurjohannsson.com<br>
+website: https://olafurjohannsson.com<br>
 
 Description:
 
