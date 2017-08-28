@@ -1,5 +1,5 @@
 import argparse
-from tftp_client import TFTPClient
+from client import TFTPClient
 from socket import gethostname, gethostbyname
 import os
 
