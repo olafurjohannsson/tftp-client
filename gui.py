@@ -1,7 +1,7 @@
 import tkinter, os
 from tkinter import *
 from tkinter.filedialog import askopenfilename
-from tftp_client import TFTPClient
+from client import TFTPClient
 
 class Tftp_gui(object):
 
