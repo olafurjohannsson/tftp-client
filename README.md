@@ -4,6 +4,8 @@ TFTP Client
 
 **************************************************
 
+> I wrote this TFTP client more then 10 years ago as a weekend project, it does implement the RFC UDP packets correctly but there are many errors and weird shenanigans in the codebase, im just keeping it as a stroll around memory lane so i wont be updating it.
+
 author: Ólafur Aron Jóhannsson<br>
 email: olafurjohannss@gmail.com<br>
 website: https://olafuraron.is
@@ -70,3 +72,4 @@ Packages:
 	
 		
 **************************************************
+
